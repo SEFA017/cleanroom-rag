@@ -23,6 +23,6 @@ This project implements a multimodal Retrieval-Augmented Generation (RAG) assist
 
 ### Installation
 ```bash
-git clone https://github.com/BEEE/cleanroom-assistant.git
-cd cleanroom-assistant
+git clone https://github.com/BEEE/Cleanroom-RAG.git
+cd Cleanroom-RAG
 pip install -r requirements.txt
